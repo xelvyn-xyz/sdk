@@ -1,0 +1,28 @@
+{
+  "name": "@xelvyn/sdk",
+  "version": "0.1.0-beta.1",
+  "description": "TypeScript SDK for programmatic control of XELVYN autonomous agents. Fully-typed client library covering agents, x402 USDC payments, XMTP messaging, skills, VPS, and configuration. Zero external dependencies.",
+  "license": "MIT",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "xelvyn",
+    "autonomous-agents",
+    "sdk",
+    "typescript",
+    "usdc",
+    "x402",
+    "xmtp"
+  ],
+  "author": "",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "dependencies": {
+    "typescript": "^5.9.3"
+  }
+}
